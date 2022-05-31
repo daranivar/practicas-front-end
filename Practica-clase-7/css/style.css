@@ -1,0 +1,32 @@
+.titulos{
+    color: #005677;
+    background-color: #C4C4C4;
+    
+}
+p{
+    background-color: #005677;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.encabezado{
+    background-color: #E6E6E6;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.espacio{
+    text-indent: 76px;
+}
